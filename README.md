@@ -1,2 +1,3 @@
 # Oh My Goose
-Game in C  in Fatec
+Create for Game Fatec in C  
+P.S: Download all files for play game
